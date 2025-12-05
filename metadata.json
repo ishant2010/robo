@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Robo - Auto Car AI",
+  "description": "An interactive, voice-enabled AI assistant for an autonomous vehicle project using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
